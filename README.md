@@ -2,10 +2,10 @@
 
 # JevNavAgent: A Single-Forward Visual Navigation Agent with Trajectory-Level RL for Gigapixel Pathology
 
-**Yonghuang Wu**, **Zhenyang Liang**, **Pengfei Wang**, **Yize Ma**, **Guoqing Wu**, and **Jinhua Yu**<sup>\*</sup>
+**Yonghuang Wu**, **Zhenyang Liang**, **Pengfei Wang**, **Yize Ma**, **Guoqing Wu**, and **Jinhua Yu**
 
 *School of Biomedical Engineering and Technological Innovation, Fudan University, Shanghai, China*  
-<sup>\*</sup>Corresponding author: `jhyu@fudan.edu.cn`
+Contact: `yonghuangwu21@m.fudan.edu.cn`
 
 [![HuggingFace Dataset](https://img.shields.io/badge/🤗%20Dataset-renyimen%2FJevNavAgent-blue)](https://huggingface.co/datasets/renyimen/JevNavAgent)
 [![HuggingFace Models](https://img.shields.io/badge/🤗%20Models-renyimen%2FJevNavAgent-yellow)](https://huggingface.co/renyimen/JevNavAgent)
