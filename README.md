@@ -7,6 +7,7 @@
 *School of Biomedical Engineering and Technological Innovation, Fudan University, Shanghai, China*  
 Contact: `yonghuangwu21@m.fudan.edu.cn`
 
+[![Paper PDF](https://img.shields.io/badge/📄%20Paper-PDF-red)](paper/JevNavAgent.pdf)
 [![HuggingFace Dataset](https://img.shields.io/badge/🤗%20Dataset-renyimen%2FJevNavAgent-blue)](https://huggingface.co/datasets/renyimen/JevNavAgent)
 [![HuggingFace Models](https://img.shields.io/badge/🤗%20Models-renyimen%2FJevNavAgent-yellow)](https://huggingface.co/renyimen/JevNavAgent)
 [![License](https://img.shields.io/badge/License-Apache--2.0-green.svg)](LICENSE)
